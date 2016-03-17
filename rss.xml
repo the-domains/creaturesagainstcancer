@@ -4,7 +4,7 @@
         <description><![CDATA[Creatures Against Cancer]]></description>
         <link>https://thegrid.ai/creaturesagainstcancer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 04:49:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 04:57:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/creaturesagainstcancer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Our Story]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/creaturesagainstcancer/29bf4f0a-3a71-4dab-8b2e-6d274ec22027/index.html</link>
             <guid isPermaLink="false">29bf4f0a-3a71-4dab-8b2e-6d274ec22027</guid>
             <pubDate>Thu, 17 Mar 2016 04:35:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Test post for Creatures Against Cancer</p>]]></description>
-            <link>https://thegrid.ai/creaturesagainstcancer/8b1f5ddc-96bf-4c8d-adf8-9c23028422cb/index.html</link>
-            <guid isPermaLink="false">8b1f5ddc-96bf-4c8d-adf8-9c23028422cb</guid>
-            <pubDate>Tue, 01 Mar 2016 16:27:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
