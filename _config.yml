@@ -2,6 +2,7 @@ name: creaturesagainstcancer
 favicon: null
 layout_spectrum: 0.26456
 typography_spectrum: 0.09369
+title: Creatures Against Cancer
 cta:
   domain: null
   bucket: null
