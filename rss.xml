@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[creaturesagainstcancer]]></title>
         <description><![CDATA[creaturesagainstcancer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/creaturesagainstcancer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 16:27:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 04:20:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/creaturesagainstcancer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Story]]></title>
+            <description><![CDATA[<article><h1>The Story</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/creaturesagainstcancer/the-story/index.html</link>
+            <guid isPermaLink="false">25f25e11-579a-41ab-a98e-3c73d616db15</guid>
+            <pubDate>Thu, 17 Mar 2016 04:20:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined8b1f5ddc-96bf-4c8d-adf8-9c23028422cb/index.html</link>
+            <description><![CDATA[<p>Test post for Creatures Against Cancer</p>]]></description>
+            <link>https://thegrid.ai/creaturesagainstcancer/8b1f5ddc-96bf-4c8d-adf8-9c23028422cb/index.html</link>
             <guid isPermaLink="false">8b1f5ddc-96bf-4c8d-adf8-9c23028422cb</guid>
             <pubDate>Tue, 01 Mar 2016 16:27:43 GMT</pubDate>
         </item>
