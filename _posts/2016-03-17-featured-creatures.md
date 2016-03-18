@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-17T16:53:45.943Z'
-dateModified: '2016-03-17T16:53:12.325Z'
+datePublished: '2016-03-18T14:58:34.295Z'
+dateModified: '2016-03-18T14:58:30.240Z'
 title: Featured Creatures
 author: []
+sourcePath: _posts/2016-03-17-featured-creatures.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-featured-creatures.md
-published: true
 url: featured-creatures/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Featured Creatures
